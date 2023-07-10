@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import Layout from "../components/layout";
 
-import pic from "../public/foo"
+import pic from "../public/images/patrick.1200x1200.png"
 
 export default function Page() {
   return (
